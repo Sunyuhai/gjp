@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gjp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gjp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
